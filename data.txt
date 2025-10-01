@@ -1,0 +1,9 @@
+input sample
+3.5
+1.2
+9.7
+4.4
+6.1
+sample output
+
+The median is: 4.40
