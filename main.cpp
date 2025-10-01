@@ -1,12 +1,12 @@
-// *************************************************************************** 
-// 
-//   Your Name 
-//   Your Harper ID
-//   Your Course and Section Number 
-// 
-//   I certify that this is my own work and where appropriate an extension 
-//   of the starter code provided for the assignment. 
-// ***************************************************************************
+//*************************************************************
+//
+//Danil Alieinikov
+//H00880905
+//CSC122-01
+//
+//I certify that this is my work and where appropriate an extension
+//of the starter code provided by the assignment
+//************************************************************
 
 #include <iostream>
 #include <fstream>
